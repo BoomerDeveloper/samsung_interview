@@ -76,8 +76,6 @@ int main(){
         }
 
         // the possible catch would be N<=10;
-        // assuming that wormholes are in correct order s->d and not d->s
-        // also assuming that the worm holes where sorted based on start
 
         int total_combinations = ((1<<N)-1);
         int min_dist=abs(Sx-Dx)+abs(Sy-Dy);
