@@ -2,7 +2,6 @@
 https://www.geeksforgeeks.org/samsung-interview-experience-set-39-campus-r-d-noida/
 
 */
-
 #include <iostream>
 using namespace std;
 
@@ -10,7 +9,7 @@ bool visited[1000];
 int adj_matrix[1000][1000];
 
 int max_prob=0;
-int max_prob_idx;
+int max_prob_idx=-1;
 int N;
 
 void dfs(int time, int idx, int prob){
@@ -22,6 +21,18 @@ void dfs(int time, int idx, int prob){
             max_prob_idx = idx;
         }
         return ;
+    }
+
+    if(time>10){
+        bool all_visted=true;
+        for(int i=0;i<N; i++){
+            if(!visited[i]){
+                all_visted=false;
+                break;
+            }
+        }
+        if(all_visited)
+            return ;
     }
 
     visited[idx]=true;
