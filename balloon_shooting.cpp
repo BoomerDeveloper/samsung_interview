@@ -4,6 +4,8 @@ Link : https://www.geeksforgeeks.org/samsung-delhi-interview-experience-set-38-c
 
 Catch: Neighboring balloon comes together after the middle one is shot
 
+Hint : Variant of travelling salesman problem
+
 */
 
 #include <iostream>
