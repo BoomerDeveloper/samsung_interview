@@ -1,6 +1,10 @@
 /*
 
-Link : https://www.geeksforgeeks.org/samsung-delhi-interview-experience-set-38-campus/
+Question Link : 
+
+https://www.geeksforgeeks.org/samsung-delhi-interview-experience-set-38-campus/
+
+https://interviewbubble.com/samsung-interview-questions-asked-in-samsung-3-hour-test-set-5/
 
 Catch: Neighboring balloon comes together after the middle one is shot
 
