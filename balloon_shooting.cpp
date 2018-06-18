@@ -1,5 +1,7 @@
 /*
 
+[18 June] : This may be wrong. Use MCM to solved this in DP. Will update the solution.
+
 Question Link : 
 
 https://www.geeksforgeeks.org/samsung-delhi-interview-experience-set-38-campus/
