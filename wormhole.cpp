@@ -1,5 +1,7 @@
 /*
 
+[18 June] : This is wrong. We have to use Bellman-ford. Will update the solution.
+
 Question: https://www.geeksforgeeks.org/samsung-interview-experience-r-d-noida-off-campus/
 
 Input :
