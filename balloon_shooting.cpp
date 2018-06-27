@@ -1,5 +1,7 @@
 /*
 
+[19 June] : I bileave this is not an MCM. We have to perform DP TSP.
+
 [18 June] : This may be wrong. Use MCM to solved this in DP. Will update the solution.
 
 Question Link : 
